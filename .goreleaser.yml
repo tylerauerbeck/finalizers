@@ -12,7 +12,6 @@ builds:
     binary: kubectl-finalizers
     goos:
       - linux
-      - windows
       - darwin
     goarch:
       - amd64
